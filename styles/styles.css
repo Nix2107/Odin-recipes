@@ -1,6 +1,10 @@
 
+html {
+    background-color: rgba(42, 154, 42)
+}
+
 body {
-    background-color: rgba(212, 243, 212, 0.6);
+    background-color: rgba(154, 42, 42);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     margin:auto 200px;
@@ -28,7 +32,7 @@ p {
 
 img {
 
-    width: 400px;
+    width: 75%;
     height: 300px;
 }
 
