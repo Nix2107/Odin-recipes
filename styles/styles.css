@@ -32,11 +32,11 @@ p {
 
 img {
 
-    width: 75%;
+    width: 50%;
     height: 300px;
 }
 
-@media screen and (max-width: 480px)
+@media screen and (max-width: 420px)
 { 
 
     body {
